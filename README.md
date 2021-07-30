@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kennyng90
-- 👀 I’m interested in React, GatsbyJS and NEXTJS.
-- 🌱 I’m currently learning GatsbyJS, NextJS, AdobeXD
+- 👀 I’m interested in building web apps,React GatsbyJS and NextJS is my go to framework.
+- 🌱 I’m currently learning GatsbyJS, NextJS and AdobeXD
 - 📫 How to reach me: kennamngu@gmail.com
 
 <!---
